@@ -86,19 +86,19 @@ This project was developed as a Bachelor of Engineering final-year academic proj
 
 ## Face Recognition
 
-![Face Recognition](screenshots/IMG_2739.jpg)
+![Face Recognition](IMG_2739.jpg)
 
 ---
 
 ## Hand Gesture Recognition
 
-![Gesture Recognition](screenshots/IMG_2740.jpg)
+![Gesture Recognition](IMG_2740.jpg)
 
 ---
 
 ## LCD Display & Withdrawal Options
 
-![LCD Display](screenshots/IMG_2741.jpg)
+![LCD Display](IMG_2741.jpg)
 
 ---
 
